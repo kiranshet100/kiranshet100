@@ -3,7 +3,6 @@
 <p align="center">
   <strong>Builder. AI Engineer. Shipping products that solve real problems.</strong>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js" />
